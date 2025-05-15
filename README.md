@@ -32,7 +32,7 @@
 
 > 모든 LED 핀은 `analogWrite()`를 사용하는 PWM 핀이어야 합니다.
 
-![하드웨어 구성](images/IMG_0722.jpg)
+![하드웨어 구성](images/IMG_0722.JPG)
 
 
 
