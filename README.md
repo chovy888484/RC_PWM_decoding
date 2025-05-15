@@ -34,7 +34,7 @@
 
 <img src="images/IMG_0722.JPG" width="400" alt="하드웨어 구성">
 
-
+<img src="images/IMG_0724.JPG" width="400" alt="RC 수신기">
 
 
 ---
