@@ -71,8 +71,7 @@ Arduino IDE → **스케치 > 라이브러리 포함하기 > 라이브러리 관
 
 ## 📷 시연 이미지 / 영상
 
-> [![PWM LED 제어 시연][(https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)](https://youtu.be/ioahYYO6-vk)
-
+> (https://youtu.be/ioahYYO6-vk)
 
 ---
 
